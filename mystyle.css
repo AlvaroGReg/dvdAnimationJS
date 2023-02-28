@@ -1,0 +1,15 @@
+
+#pelota{
+
+    position: absolute;
+    background-image: url(res/beti.jpg.png);
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    top: 0.1px;
+    left: 0.1px;
+}
+
+body{
+    background-color: green;
+}
